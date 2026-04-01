@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 
-TELEGRAM_TOKEN = "8620726561:AAEFBg0eTduLwxIpRr3Ab40k-5rE8dS9OGk"
+TELEGRAM_TOKEN = "8620726561:AAFQa4IXfZzYTUAd8h7ilvpKIDA_BRtvkBU"
 NOTION_TOKEN = "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"
 NOTION_DATABASE_ID = "335d0da7c01680a39a38cabd5848e4cc"
 
