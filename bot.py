@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 
 TELEGRAM_TOKEN = "8620726561:AAEFBg0eTduLwxIpRr3Ab40k-5rE8dS9OGk"
-NOTION_TOKEN = "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"
+NOTION_TOKEN = "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"
 NOTION_DATABASE_ID = "335d0da7c01680a39a38cabd5848e4cc"
 
 DIAS = {
